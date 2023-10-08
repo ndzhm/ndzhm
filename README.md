@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+  - i'm a newcomer in coding
+  - i'm looking for a tutor that can help me through my precious journey
 <!--
 **ndzhm/ndzhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
